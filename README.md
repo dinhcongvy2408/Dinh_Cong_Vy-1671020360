@@ -1,4 +1,4 @@
-# Ứng Dụng Quản Lý Lịch Học
+# Ứng Dụng Quản Lý Lịch Học - Đinh Công Vỹ - 1671020360
 
 ## Giới thiệu
 Ứng dụng quản lý lịch học được phát triển bằng Flutter và Firebase, giúp người dùng theo dõi và quản lý lịch học một cách hiệu quả.
@@ -32,7 +32,7 @@ lich_hoc_app/
 ### Các bước cài đặt
 1. Clone repository
 ```bash
-git clone [URL_REPOSITORY]
+git clone https://github.com/dinhcongvy2408/Dinh_Cong_Vy-1671020360.git
 ```
 
 2. Cài đặt dependencies
@@ -63,7 +63,7 @@ flutter run
 - [Firebase Database Package](https://pub.dev/packages/firebase_database)
 
 ## Tác giả
-[Your Name]
+Đinh Công Vỹ - 1671020360
 
 ## Giấy phép
-[License Type] 
+MIT License
