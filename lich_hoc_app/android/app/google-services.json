@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "44077152334",
+    "project_id": "myproject-6ec40",
+    "storage_bucket": "myproject-6ec40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44077152334:android:2bb4613abd6cce8c216b1f",
+        "android_client_info": {
+          "package_name": "com.example.lich_hoc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF1_xxYF7fcbnndS1iaK_m1ZnskptLAd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1",
+  "lichHoc": {
+    "key1": {
+      "tenMonHoc": "Môn học 1",
+      "moTa": "Mô tả môn học",
+      "thoiGianBatDau": "2024-03-25T08:00:00.000Z",
+      "thoiGianKetThuc": "2024-03-25T10:00:00.000Z",
+      "diaDiem": "Phòng A1",
+      "tenGiangVien": "Nguyễn Văn A",
+      "maMonHoc": "MH001",
+      "daHoanThanh": false
+    }
+  },
+  "rules": {
+    ".read": true,
+    ".write": true
+  }
+}
